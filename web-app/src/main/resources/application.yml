@@ -1,0 +1,14 @@
+management:
+  endpoint:
+    health:
+      show-details: always
+  endpoints:
+    web:
+      exposure:
+        include: '*'
+
+lightweight:
+  server: true
+
+
+logging.level.com.thinatech: DEBUG
