@@ -13,7 +13,7 @@
         <kotlin.version>1.4.10</kotlin.version>
     </properties>
 
-    <artifactId>lightweight-health-starter</artifactId>
+    <artifactId>spring-actuator-lightweightweb-starter</artifactId>
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
